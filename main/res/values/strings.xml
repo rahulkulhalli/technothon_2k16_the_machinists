@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WatsonExample</string>
+    <string name="buttontext">Click here to send asynctask</string>
+</resources>
