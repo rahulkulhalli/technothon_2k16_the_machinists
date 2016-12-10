@@ -1,0 +1,254 @@
+	
+	/*for all*/
+	*{
+ 		font-family: cursive;
+ 		-webkit-transition: all 2s ease-in-out;
+		transition: all 2s ease-in-out;
+	}
+
+
+	#val1{
+		position: absolute;
+		top: 600px;
+		left: 177px;
+		color: white;
+	}
+	/*Background*/
+	#main{
+		background-image: url("images/jpg/wood.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		filter: blur(5px);
+		height: 100%;
+		width: 100%;
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+	#chart1{
+		position: absolute;
+		top: 420px;
+		left: 150px;
+	}
+	#chart1 > *{
+		position: absolute;
+		left: 0px; 
+		width: 65px;
+		height:0px;
+      	float: left;
+	  	bottom: -220px;
+		background: #89b800;
+		box-shadow: 1px -1px #79a300, 2px -2px #79a300, 3px -3px #79a300,   4px -4px #79a300, 5px -5px #79a300, 6px -6px #79a300, 7px -7px   #79a300, 8px -8px #79a300, 9px -9px #79a300, 10px -10px #79a300;
+		-webkit-transition: all 2s ease-in-out;
+	  	transition: all 2s ease-in-out;
+	}
+
+	/*Heading*/
+	#heading{
+				
+				color:white;
+	}
+	.box h3{
+
+		font-size: 70px;
+	  	text-align:center;
+	    position:relative;
+	    top:0px;
+	    color: #fff;
+	    text-decoration: underline;
+		text-shadow: #ccc 0 1px 0, #c9c9c9 0 2px 0, #bbb 0 3px 0, #b9b9b9 0 4px 0, #aaa 0 5px 0,rgba(0,0,0,.1) 0 6px 1px, rgba(0,0,0,.1) 0 0 5px, rgba(0,0,0,.3) 0 1px 3px, rgba(0,0,0,.15) 0 3px 5px, rgba(0,0,0,.2) 0 5px 10px, rgba(0,0,0,.2) 0 10px 10px, rgba(0,0,0,.1) 0 20px 20px;
+	}
+	.box {
+
+		display: none;
+	    width:60%;
+	    height:150px;
+	 	margin-left: 300px;
+	 	margin-top: -80px;
+	 	
+	}
+
+	#name{
+		display: none;
+		position: absolute;
+		bottom: 200px;
+		left: 140px;
+		top: 650px;
+	}
+
+	#name > *{
+		position: absolute;
+		margin: 20px;
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	#finite_loop_name{
+		left: 0;
+		color: #EC813B;
+	}
+	#brogrammers_name{
+		left: 120px;
+		color: #ABEE2F;
+	}
+	#aadhaar_name{
+		left: 285px;
+		color: #36DCF0;
+	}
+	#vard_name{
+		left: 435px;
+		color: #E933DB;
+	}
+	#marvel_name{
+		left: 595px;
+		color: #DFF12F;
+	}
+	#the_decepticons_name{
+		left: 750px;
+		color: #3AED34;
+	}
+	#machinists_name{
+		left: 885px;
+		color: #2C5BED;
+	}
+	#openface_name{
+		left: 1033px;
+		color: #F22D2A;
+	}
+	#Limg{
+		display: none;
+		position: absolute;
+		height: 70px;
+		width: 70px;
+		margin-left: 0px;
+		margin-top: -100px;
+	}
+	#Eimg{
+		display: none;
+		position: absolute;
+		height: 70px;
+		width: 70px;
+		margin-left: 5px;
+		margin-top: -100px;
+	}
+	#Aimg{
+		display: none;
+		position: absolute;
+		height: 70px;
+		width: 70px;
+		margin-left: 5px;
+		margin-top: -100px;
+	}
+	#Rimg{
+		display: none;
+		position: absolute;
+		height: 70px;
+		width: 70px;
+		margin-left: 10px;
+		margin-top: -100px;
+	}
+	#Nimg{
+		display: none;
+		position: absolute;
+		height: 70px;
+		width: 70px;
+		margin-left: 0px;
+		margin-top: -100px;
+	}
+	#Iimg{
+		display: none;
+		position: absolute;
+		height: 70px;
+		width: 35px;
+		margin-left: 23px;
+		margin-top: -100px;
+	}
+	#NNimg{
+		display: none;
+		position: absolute;
+		height: 70px;
+		width: 70px;
+		margin-left: 0px;
+		margin-top: -100px;
+	}
+	#Gimg{
+		display: none;
+		position: absolute;
+		height: 70px;
+		width: 70px;
+		margin-left: 5px;
+		margin-top: -100px;
+	}
+	
+	/*Individual Project Name*/
+	#project{
+		display: none;
+		position: absolute;
+		left: 500px;
+		color: #fff;
+		top: 90px;
+		font-size: 60px;
+		text-shadow: #969696 1px 3px 0, #aba8a8 1px 13px 5px;
+		height: 100px;
+		width: 600px;
+		color: white;
+	}
+
+
+
+	#finite_loop{
+
+		left: 0px;
+		background: #EC813B;
+		box-shadow: 1px -1px #C15F1F, 2px -2px #C15F1F, 3px -3px #C15F1F,   4px -4px #C15F1F, 5px -5px #C15F1F, 6px -6px #C15F1F, 7px -7px   #C15F1F, 8px -8px #C15F1F, 9px -9px #C15F1F, 10px -10px #C15F1F;
+
+	}
+	#brogrammers{
+
+		left: 150px;
+		background: #ABEE2F;
+		box-shadow: 1px -1px #8BC61E, 2px -2px #8BC61E, 3px -3px #8BC61E,   4px -4px #8BC61E, 5px -5px #8BC61E, 6px -6px #8BC61E, 7px -7px   #8BC61E, 8px -8px #8BC61E, 9px -9px #8BC61E, 10px -10px #8BC61E;
+
+	}
+	#aadhaar{
+
+		left: 300px;
+		background: #36DCF0;
+		box-shadow: 1px -1px #20ABBC, 2px -2px #20ABBC, 3px -3px #20ABBC,   4px -4px #20ABBC, 5px -5px #20ABBC, 6px -6px #20ABBC, 7px -7px   #20ABBC, 8px -8px #20ABBC, 9px -9px #20ABBC, 10px -10px #20ABBC;
+
+	}
+	#vard{
+
+		left: 450px;
+		background: #E933DB;
+		box-shadow: 1px -1px #AD1BA1, 2px -2px #AD1BA1, 3px -3px #AD1BA1,   4px -4px #AD1BA1, 5px -5px #AD1BA1, 6px -6px #AD1BA1, 7px -7px   #AD1BA1, 8px -8px #AD1BA1, 9px -9px #AD1BA1, 10px -10px #AD1BA1;
+
+	}
+	#marvel{
+
+		left: 600px;
+		background: #DFF12F;
+		box-shadow: 1px -1px #BDCD20, 2px -2px #BDCD20, 3px -3px #BDCD20,   4px -4px #BDCD20, 5px -5px #BDCD20, 6px -6px #BDCD20, 7px -7px   #BDCD20, 8px -8px #BDCD20, 9px -9px #BDCD20, 10px -10px #BDCD20;
+
+	}
+	#the_decepticons{
+
+		left: 750px;
+		background: #3AED34;
+		box-shadow: 1px -1px #22B21D, 2px -2px #22B21D, 3px -3px #22B21D,   4px -4px #22B21D, 5px -5px #22B21D, 6px -6px #22B21D, 7px -7px   #22B21D, 8px -8px #22B21D, 9px -9px #22B21D, 10px -10px #22B21D;
+
+	}
+	#machinists{
+
+		left: 900px;
+		background: #2C5BED;
+		box-shadow: 1px -1px #1E43B6, 2px -2px #1E43B6, 3px -3px #1E43B6,   4px -4px #1E43B6, 5px -5px #1E43B6, 6px -6px #1E43B6, 7px -7px   #1E43B6, 8px -8px #1E43B6, 9px -9px #1E43B6, 10px -10px #1E43B6;
+	
+	}
+	#openface{
+
+		left: 1050px;
+		background: #F22D2A;
+		box-shadow: 1px -1px #B6201E, 2px -2px #B6201E, 3px -3px #B6201E,   4px -4px #B6201E, 5px -5px #B6201E, 6px -6px #B6201E, 7px -7px   #B6201E, 8px -8px #B6201E, 9px -9px #B6201E, 10px -10px #B6201E;
+	
+	}

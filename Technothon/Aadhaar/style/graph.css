@@ -1,0 +1,354 @@
+	
+	/*for all*/
+	*{
+ 		font-family: cursive;
+ 		-webkit-transition: all 2s ease-in-out;
+		transition: all 2s ease-in-out;
+	}
+
+
+
+	/*Background*/
+	#main{
+		background-image: url("images/jpg/wood.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		filter: blur(0px);
+		height: 100%;
+		width: 100%;
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+/*853962 1496BC*/
+
+	/*Heading*/
+	#heading{
+				
+				color:white;
+	}
+	.box h3{
+
+		font-size: 70px;
+	  	text-align:center;
+	    position:relative;
+	    top:0px;
+	    color: #fff;
+	    text-decoration: underline;
+		text-shadow: #ccc 0 1px 0, #c9c9c9 0 2px 0, #bbb 0 3px 0, #b9b9b9 0 4px 0, #aaa 0 5px 0,rgba(0,0,0,.1) 0 6px 1px, rgba(0,0,0,.1) 0 0 5px, rgba(0,0,0,.3) 0 1px 3px, rgba(0,0,0,.15) 0 3px 5px, rgba(0,0,0,.2) 0 5px 10px, rgba(0,0,0,.2) 0 10px 10px, rgba(0,0,0,.1) 0 20px 20px;
+	}
+	.box {
+
+		display: none;
+	    width:60%;
+	    height:150px;
+	 	margin-left: 300px;
+	 	margin-top: -80px;
+	 	
+	}
+
+
+
+	/*Individual Project Name*/
+	#project{
+		display: none;
+		position: absolute;
+		left: 610px;
+		color: #fff;
+		top: 90px;
+		font-size: 60px;
+		text-shadow: #969696 1px 3px 0, #aba8a8 1px 13px 5px;
+		height: 100px;
+		width: 400px;
+		color: white;
+	}
+
+
+
+	/*Color Definition Chart*/
+	#emotiontitle{
+		visibility: hidden;
+		color:white;
+		font-size: 20px;
+		top: 0;
+		left: 0;
+		padding-left: 10px;
+		display: inline-block;
+		width: 200px;
+		height: 250px;
+		float: left;
+		position: absolute;
+	}
+
+	#angercolor{
+		float: right;
+		position: relative;
+		top: 10px;
+		width: 100px;
+		height: 10px;
+		background: #E33025;
+	}
+	#disgustcolor{
+		float: right;
+		position: relative;
+		top: 10px;
+		width: 100px;
+		height: 10px;
+		background: #58DE8D;
+	}
+	#fearcolor{
+		float: right;
+		position: relative;
+		top: 10px;
+		width: 100px;
+		height: 10px;
+		background: #BB40DD;
+	}
+	#joycolor{
+		float: right;
+		position: relative;
+		top: 10px;
+		width: 100px;
+		height: 10px;
+		background: #E9EC41;
+	}
+	#sadnesscolor{
+		float: right;
+		position: relative;
+		top: 10px;
+		width: 100px;
+		height: 10px;
+		background: #35AEE2;
+	}
+
+
+	/*Audio Bar Graph*/
+	#chart1 > *{
+		left: 100px; 
+		width: 65px;
+		height:0px;
+      	float: left;
+	  	position: absolute;
+	  	bottom: 220px;
+		display:inline-block;
+		background: #89b800;
+		box-shadow: 1px -1px #79a300, 2px -2px #79a300, 3px -3px #79a300,   4px -4px #79a300, 5px -5px #79a300, 6px -6px #79a300, 7px -7px   #79a300, 8px -8px #79a300, 9px -9px #79a300, 10px -10px #79a300;
+		-webkit-transition: all 2s ease-in-out;
+	  	transition: all 2s ease-in-out;
+	}
+
+	/*Emotion DIV*/
+	#anger1{
+		background: #E33025;
+		margin-left: 50px;
+		box-shadow: 1px -1px #BA2920, 2px -2px #BA2920, 3px -3px #BA2920,   4px -4px #BA2920, 5px -5px #BA2920, 6px -6px #BA2920, 7px -7px   #BA2920, 8px -8px #BA2920, 9px -9px #BA2920, 10px -10px #BA2920;
+
+	}
+	#disgust1{
+		background: #58DE8D;
+		margin-left: 150px;
+		box-shadow: 1px -1px #36A361, 2px -2px #36A361, 3px -3px #36A361,   4px -4px #36A361, 5px -5px #36A361, 6px -6px #36A361, 7px -7px   #36A361, 8px -8px #36A361, 9px -9px #36A361, 10px -10px #36A361;
+	}
+	#fear1{
+		background: #BB40DD;
+		margin-left: 250px;
+		box-shadow: 1px -1px #9119B2, 2px -2px #9119B2, 3px -3px #9119B2,   4px -4px #9119B2, 5px -5px #9119B2, 6px -6px #9119B2, 7px -7px   #9119B2, 8px -8px #9119B2, 9px -9px #9119B2, 10px -10px #9119B2;
+
+	}
+	#joy1{
+		background: #E9EC41;
+		margin-left: 350px;
+		box-shadow: 1px -1px #BEC135, 2px -2px #BEC135, 3px -3px #BEC135,   4px -4px #BEC135, 5px -5px #BEC135, 6px -6px #BEC135, 7px -7px   #BEC135, 8px -8px #BEC135, 9px -9px #BEC135, 10px -10px #BEC135;
+
+	}
+	#sadness1{
+		background: #35AEE2;
+		margin-left: 450px;
+		box-shadow: 1px -1px #2686AF, 2px -2px #2686AF, 3px -3px #2686AF,   4px -4px #2686AF, 5px -5px #2686AF, 6px -6px #2686AF, 7px -7px   #2686AF, 8px -8px #2686AF, 9px -9px #2686AF, 10px -10px #2686AF;
+	}
+
+
+	/*AUDIO-PNG*/
+	#Aimg{
+		display: none;
+		position: absolute;
+		height: 70px;
+		width: 70px;
+		margin-left: 0px;
+		margin-top: -100px;
+	}
+	#Uimg{
+		display: none;
+		position: absolute;
+		height: 70px;
+		width: 70px;
+		margin-left: 0px;
+		margin-top: -100px;
+	}
+	#Dimg{
+		display: none;
+		position: absolute;
+		height: 70px;
+		width: 70px;
+		margin-left: 10px;
+		margin-top: -100px;
+	}
+	#Iimg{
+		display: none;
+		position: absolute;
+		height: 70px;
+		width: 35px;
+		margin-left: 23px;
+		margin-top: -100px;
+	}
+	#Oimg{
+		display: none;
+		position: absolute;
+		height: 70px;
+		width: 70px;
+		margin-left: 0px;
+		margin-top: -100px;
+	}
+
+
+
+	/*Image Bar Graph*/
+	#chart2 > *{	
+		left: 700px; 
+		width: 65px;
+		height:0px;
+      	float: left;
+	  	position: absolute;
+	  	bottom: 220px;
+		display:inline-block;
+		background: #89b800;
+		box-shadow: 1px -1px #79a300, 2px -2px #79a300, 3px -3px #79a300,   4px -4px #79a300, 5px -5px #79a300, 6px -6px #79a300, 7px -7px   #79a300, 8px -8px #79a300, 9px -9px #79a300, 10px -10px #79a300;
+		-webkit-transition: all 2s ease-in-out;
+	  	transition: all 2s ease-in-out;		
+	}
+
+	/*Emotion DIV*/
+	#anger2{
+		background: #E33025;
+		margin-left: 50px;
+		box-shadow: 1px -1px #BA2920, 2px -2px #BA2920, 3px -3px #BA2920,   4px -4px #BA2920, 5px -5px #BA2920, 6px -6px #BA2920, 7px -7px   #BA2920, 8px -8px #BA2920, 9px -9px #BA2920, 10px -10px #BA2920;
+
+	}
+	#disgust2{
+		background: #58DE8D;
+		margin-left: 150px;
+		box-shadow: 1px -1px #36A361, 2px -2px #36A361, 3px -3px #36A361,   4px -4px #36A361, 5px -5px #36A361, 6px -6px #36A361, 7px -7px   #36A361, 8px -8px #36A361, 9px -9px #36A361, 10px -10px #36A361;
+	}
+	#fear2{
+		background: #BB40DD;
+		margin-left: 250px;
+		box-shadow: 1px -1px #9119B2, 2px -2px #9119B2, 3px -3px #9119B2,   4px -4px #9119B2, 5px -5px #9119B2, 6px -6px #9119B2, 7px -7px   #9119B2, 8px -8px #9119B2, 9px -9px #9119B2, 10px -10px #9119B2;
+
+	}
+	#joy2{
+		background: #E9EC41;
+		margin-left: 350px;
+		box-shadow: 1px -1px #BEC135, 2px -2px #BEC135, 3px -3px #BEC135,   4px -4px #BEC135, 5px -5px #BEC135, 6px -6px #BEC135, 7px -7px   #BEC135, 8px -8px #BEC135, 9px -9px #BEC135, 10px -10px #BEC135;
+
+	}
+	#sadness2{
+		background: #35AEE2;
+		margin-left: 450px;
+		box-shadow: 1px -1px #2686AF, 2px -2px #2686AF, 3px -3px #2686AF,   4px -4px #2686AF, 5px -5px #2686AF, 6px -6px #2686AF, 7px -7px   #2686AF, 8px -8px #2686AF, 9px -9px #2686AF, 10px -10px #2686AF;
+	}
+
+
+	/*IMAGE-PNG*/
+	#IIimg{
+		display: none;
+		position: absolute;
+		height: 70px;
+		width: 35px;
+		margin-left: 23px;
+		margin-top: -100px;
+	}
+	#MMimg{
+		display: none;
+		position: absolute;
+		height: 70px;
+		width: 70px;
+		margin-left: 0px;
+		margin-top: -100px;
+	}
+	#AAimg{
+		display: none;
+		position: absolute;
+		height: 70px;
+		width: 70px;
+		margin-left: 0px;
+		margin-top: -100px;
+	}
+	#GGimg{
+		display: none;
+		position: absolute;
+		height: 70px;
+		width: 70px;
+		margin-left: 0px;
+		margin-top: -100px;
+	}
+	#EEimg{
+		display: none;
+		position: absolute;
+		height: 70px;
+		width: 70px;
+		margin-left: 0px;
+		margin-top: -100px;
+	}
+
+	/*Emotion Characters*/
+	#angerimg{
+		position: absolute;
+		left: 130px;
+		top: 690px;
+	}
+
+	#disgustimg{
+		position: absolute;
+		left: 220px;
+		top: 690px;
+	}
+	#fearimg{
+		position: absolute;
+		left: 310px;
+		top: 690px;
+	}
+	#joyimg{
+		position: absolute;
+		left: 410px;
+		top: 690px;
+	}
+	#sadnessimg{
+		position: absolute;
+		left: 520px;
+		top: 690px;
+
+	}
+
+	#images1{
+		display: none;
+		opacity: 0;
+		transition: all 2s linear;
+	}
+	#images2{
+
+		display: none;
+		opacity: 0;
+		transition: all 2s linear;
+	}
+
+	p{
+		bottom: -200px;
+		padding: auto;
+
+	}
+
+
+/*
+.item1:hover ~ .item3 {
+    background-color: black;
+}*/

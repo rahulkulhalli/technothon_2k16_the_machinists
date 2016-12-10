@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>FeedMach</title>
+		<!-- Title Bar Icon -->
+		<link rel="shortcut icon" href="images/png/feed.png" />
+		<!-- Cascading Style Sheet -->
+		<link rel="stylesheet" type="text/css" href="style/graph.css">
+	</head>
+	<body>
+		<!-- Background -->
+		<div id="main"></div>
+
+		<!-- Heading -->
+		<div class="box">
+			<h3 id="heading">FeedMach</h3>
+		</div>
+
+		<!-- Individual Project Name -->
+		<div id="project" height="100px" width="100px;">
+			OpenFace
+		</div>
+
+
+		<!-- Color Definition Chart -->
+		<div id="emotiontitle">
+			<p id="angertitle"><div id="angercolor"></div>Anger</p>
+			<p id="disgusttitle"><div id="disgustcolor"></div>Disgust</p>
+			<p id="feartitle" > <div id="fearcolor"></div> Fear</p>
+			<p id="joytitle" ><div id="joycolor"></div> Joy</p>
+			<p id="sadnesstitle" > <div id="sadnesscolor"></div>Sadness</p>
+		</div>
+
+
+		<!-- Audio Chart -->
+		<div id="chart1">
+
+			<!-- Bar Div for Audio + AUDIO-Aphabets PNG -->
+			<div id="anger1"><img id="Aimg" src="images/png/A.png"></div>
+			<div id="disgust1"><img id="Uimg" src="images/png/U.png"></div>
+			<div id="fear1"><img id="Dimg" src="images/png/D.png"></div>
+			<div id="joy1"><img id="Iimg" src="images/png/I.png"></div>
+			<div id="sadness1"><img id="Oimg" src="images/png/O.png"></div>
+
+			<!-- Values Of the Bar Graph -->
+			<div id="val1">
+				<p id="angervalue" style="margin-left:  70px; margin-bottom: 200px; position: absolute;"></p>
+				<p id="disgustvalue" style="margin-left: 170px; margin-bottom: 200px;position: absolute;"></p>
+				<p id="fearvalue" style="margin-left: 270px; margin-bottom: 200px;position: absolute;"></p>
+				<p id="joyvalue" style="margin-left: 370px; margin-bottom: 200px;position: absolute;"></p>
+				<p id="sadnessvalue" style="margin-left: 470px; margin-bottom: 200px;position: absolute;"></p>
+			</div>
+
+		</div>
+
+		<!-- Emotion Charaters for Audio Graph -->
+		<div id="images1" >
+			<img id="angerimg" src="images/png/anger.png" height="200px;" width="120px;" >
+			<img id="joyimg" src="images/png/joy.png" height="230px;" width="120px;">
+			<img id="sadnessimg" src="images/png/sadness.png" height="200px;" width="120px;">
+			<img id="fearimg" src="images/png/fear.png" height="200px;" width="120px;">	
+			<img id="disgustimg" src="images/png/disgust.png" height="200px;" width="120px;">
+		</div>
+
+		<!-- Bar Div for Image + IMAGE-Aphabets PNG -->
+		<div id="chart2">
+			
+			<div id="anger2"><img id="IIimg" src="images/png/I.png"></div>
+			<div id="disgust2"><img id="MMimg" src="images/png/M.png"></div>
+			<div id="fear2"><img id="AAimg" src="images/png/A.png"></div>
+			<div id="joy2"><img id="GGimg" src="images/png/G.png"></div>
+			<div id="sadness2"><img id="EEimg" src="images/png/E.png"></div>
+
+			 <!--Values Of the Bar Graph -->
+			<div id="val2">
+				<p id="angervalue" style="margin-left:  70px; margin-bottom: 200px; position: absolute;"></p>
+				<p id="disgustvalue" style="margin-left: 170px; margin-bottom: 200px;position: absolute;"></p>
+				<p id="fearvalue" style="margin-left: 270px; margin-bottom: 200px;position: absolute;"></p>
+				<p id="joyvalue" style="margin-left: 370px; margin-bottom: 200px;position: absolute;"></p>
+				<p id="sadnessvalue" style="margin-left: 470px; margin-bottom: 200px;position: absolute;"></p>
+			</div>
+
+		</div>
+
+		<!-- Emotion Charaters for Image Graph -->
+		<div id="images2">
+			<img id="angerimg" src="images/png/anger.png" height="200px;" width="120px;" style="left: 735px; top: 690px;">
+			<img id="joyimg" src="images/png/joy.png" height="230px;" width="120px;" style="left: 1020px; top: 690px;">
+			<img id="sadnessimg" src="images/png/sadness.png" height="200px;" width="120px;" style="left: 1125px;top: 690px;">
+			<img id="fearimg" src="images/png/fear.png" height="200px;" width="120px;" style="left: 920px ">	
+			<img id="disgustimg" src="images/png/disgust.png" height="200px;" width="120px;" style="left: 820px; top: 690px;">
+		</div>
+
+		<!-- JQuery Script -->
+		<script type="text/javascript" src="script/jquery.js" ></script>
+		<!-- Script -->
+		<script type="text/javascript" src="script/graph.js">	</script>
+	</body>
+</html>
+
