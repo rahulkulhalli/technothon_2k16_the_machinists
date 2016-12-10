@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">WatsonApi</string>
-    <string name="speech_button">Click here to upload speech</string>
-    <string name="send_to_text">Click here to upload text</string>
-</resources>
