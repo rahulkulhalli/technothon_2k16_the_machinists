@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_8233f2c5218b57cb75ccb32fbd02a13e366ff165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_8add438d02341854262ab58293d27a5ae962270a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_eade77da2bb665d8efa6a331eb4e8c06e31e533f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.3.1_ef8151bff4f498f04453e9f15afa579cf4af1943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_f6628424390cb076e9eddb7b71f38af2d9cd7bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_316a2f3034a24e4fabea1221416dce63e54c2044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\com.mikhaellopez-circularimageview-3.0.2_c08b6c7094a70df4f59e0b7946e0d51b8a1f5040.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\gson-2.6.2_c87657a74b40b201ec0740fc6f278354033d9458.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\.gradle\caches\modules-2\files-2.1\org.glassfish.jersey.bundles.repackaged\jersey-jsr166e\2.22.2\3ef9c67a5bea4d914a45bd54f3405fa29a368f7a\jersey-jsr166e-2.22.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3ef9c67a5bea4d914a45bd54f3405fa29a368f7a">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\jersey-jsr166e-2.22.2_085d47c210b0eb65ee804c68cb97fbbe98860441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_77db108282483b548bad462d721bffb5d2eff51f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\okhttp-3.3.1_c28e70330de566a156356c4c17758062f796925a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_14c5cd5d93fd59c563b0ffb670effc5c1ef1f4f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_27efb67715a64bf282d5cdca3b7895400b896f48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.3.1\ebca9fdfbef870042a19aec6a5b7a21d72639310\okhttp-ws-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ebca9fdfbef870042a19aec6a5b7a21d72639310">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.3.1_1b78ef8c0fdabdd32b140f12cbe6f4e70729d708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_3da3f09e01f2fa8c1a14ad763846fa7333f15c61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_0d02c5d208503304d69206ee10a68b552e9f1110.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_a03c3baab2282847e10eb2572bdb49c82bb91843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_e30459f1a6b1cdbec204e0e98e154d2d7f4cdb47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.4\5fe28b9518e58819180a43a850fbc0dd24b7c050\commons-lang3-3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\commons-lang3-3.4_00a3ffbcc8a9c2419bb2d40fcd539038d35a9b2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.3.1\14e70f2069fb98dc60346dd24cb7b6a2e321580d\okhttp-urlconnection-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="14e70f2069fb98dc60346dd24cb7b6a2e321580d">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.3.1_ce4470bc03e54cdfcd221d2ca49ab95efb8ec91c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e20d2bc1b294b86dcd89414861bc2045a2a33300.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_e6536bfd0a94b90eb61b8dfb13b06a254e830911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5e514305e5ff0d84832f56f166bba08f0013fe7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\me.itangqi.waveloadingview\library\0.3.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="73330c12b1b299c298e047887a8a4f2ad41f674b">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\me.itangqi.waveloadingview-library-0.3.2_aa68ae29d041e7fb8c04ae1a68864a42d08a352a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f064c00f96d3aacbc6682882e5e6347d38ec7d0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\okio-1.8.0_eff8a3913733c09bb83700d9cab414da90fc6834.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\libs\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9_09cf948914193574d0090008a367340a2b828d0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\com.diogobernardino\williamchart\2.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5277f2d52578bcea0a8ad44069b61b9fe6d07b2a">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\com.diogobernardino-williamchart-2.3.0_723b3ad06b286eb55961535522b5d850ab6f045b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\exploded-aar\me.tankery.lib\circularSeekBar\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3adacba9dd1d55163d0bb91b059e689f4fd6befc">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\me.tankery.lib-circularSeekBar-1.1.3_454d844808d08231497eae68dda64f709fbc832d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soumyakant_sahoo\.gradle\caches\modules-2\files-2.1\com.ibm.watson.developer_cloud\java-sdk\3.0.1\d3d26c492013955d2ec0529a023015731dd2cc38\java-sdk-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d3d26c492013955d2ec0529a023015731dd2cc38">
+        <dex dex="C:\Users\soumyakant_sahoo\Downloads\FeedMach_integrated\FeedMach\app\build\intermediates\pre-dexed\debug\java-sdk-3.0.1_1a16988390ac94b582d26bf7a672128d604d2fb9.jar" />
+    </item>
+
+</items>

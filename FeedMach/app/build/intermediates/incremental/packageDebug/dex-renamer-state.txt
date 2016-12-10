@@ -1,0 +1,4 @@
+#Sat Dec 10 16:20:30 IST 2016
+base.0=C\:\\Users\\soumyakant_sahoo\\Downloads\\FeedMach_integrated\\FeedMach\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\soumyakant_sahoo\\Downloads\\FeedMach_integrated\\FeedMach\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
